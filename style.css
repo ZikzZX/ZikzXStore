@@ -358,6 +358,20 @@ footer
         font-size: 10pt;
     }
 
+    .streaming app
+    {
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        font-size: 10pt;
+    }
+
+    .voucer
+    {
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        font-size: 10pt;
+    }
+
     .link img
     {
         width: 80%;
